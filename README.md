@@ -1,6 +1,6 @@
 # 🌐 Azure Virtual Network Design 
 
-This project demonstrates how to plan, secure, and connect VNets across regions — ensuring high availability, scalability, and hybrid connectivity.
+This project demonstrates how to plan, secure, and connect VNets across regions. Ensuring high availability, scalability, and hybrid connectivity.
 
 ---
 
